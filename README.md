@@ -1,0 +1,2 @@
+# lazyflask
+flask project template
